@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/instructionsSteps"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_gravity="left|top"
+        android:background="@drawable/point_ingredients"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="1"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        tools:ignore="RtlHardcoded" />
+
+
+    <TextView
+        android:id="@+id/instructionsTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:fontFamily="@font/montserrat_regular"
+        android:justificationMode="inter_word"
+        android:text="steps"
+        android:textColor="@color/colorTextPrimary"
+        android:textDirection="firstStrongLtr"
+        android:textSize="16sp" />
+
+</LinearLayout>

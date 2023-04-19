@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YummyFood</string>
+    <string name="apiKey">44de7e6dd3474f8580aeed49e0994c32</string>
+    <string name="app_first_name">Yummy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_for_recipe">search for recipe</string>
+</resources>

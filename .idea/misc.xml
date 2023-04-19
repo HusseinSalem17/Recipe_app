@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable-v24/background_type_meal.xml" value="0.13796296296296295" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/background_back_btn.xml" value="0.12685185185185185" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/background_type_meal.xml" value="0.13796296296296295" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/ic_back.xml" value="0.12685185185185185" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/ic_home.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/ic_home_grey.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/ic_wifi.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/point_ingredients.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/point_ingredinets.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/drawable/round_back_home.xml" value="0.3703125" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout-v23/details_recipe.xml" value="0.3541666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout-v26/list_recipe_instructions.xml" value="0.3541666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_base.xml" value="0.34148550724637683" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_details_recipe.xml" value="0.34646739130434784" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_home.xml" value="0.2522255192878338" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_list_items_type.xml" value="0.2916666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_main.xml" value="0.2916666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/activity_search.xml" value="0.19583333333333333" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/details_recipe.xml" value="0.3365036231884058" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/fragment_favorites.xml" value="0.3541666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/fragment_home.xml" value="0.23693379790940766" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/fragment_recipes.xml" value="0.1947463768115942" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_meal_ingredients.xml" value="0.19479166666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_meal_type.xml" value="0.3401268115942029" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_recipe_ingredients.xml" value="0.3365036231884058" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_recipe_instructions.xml" value="0.3365036231884058" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_recipe_search.xml" value="0.3541666666666667" />
+        <entry key="..\:/fci 2020/computer programming/Mobile Projects/YummyFood/app/src/main/res/layout/list_type_recipe.xml" value="0.3365036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
